@@ -1,4 +1,4 @@
-# android-webwiew
+# Android-webwiew
 - 醫學影像系統開發入門 第二次作業
 - 用 android studio 內嵌網頁幫網站建立簡單的 app
 - 總共修改 AndroidManifest.xml、activity_main.xml、MainActivity.java、themes.xml
