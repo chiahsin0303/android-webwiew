@@ -3,6 +3,8 @@
 >
 > - 更新 MainActivity.java 檔案
 > - webview 排版
+> - webview 的優缺點
+> - 電腦顯示與虛擬手機顯示差異
   > > ### 相關連結：
   > > 
   > >- 內嵌網站 https://zu-z.github.io/HW/Web.html
@@ -11,23 +13,23 @@
                 https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/685260/ 、 https://www.gushiciku.cn/pl/pFt9/zh-tw
                 https://dotblogs.com.tw/sunnylearning/2018/04/10/140116 、 https://blog.csdn.net/qq_24530405/article/details/52067474
 > ## ppt：
->- android webview2.pptx
+> - android webview2.pptx
 
 . 
 
 >  ## 醫學影像系統開發入門 第二次作業
 > 
   > - 用 android studio 內嵌網頁幫網站建立簡單的 app
-  >- 總共修改 AndroidManifest.xml、activity_main.xml、MainActivity.java、themes.xml
+  > - 總共修改 AndroidManifest.xml、activity_main.xml、MainActivity.java、themes.xml
   >
   > > ### 相關連結：
   > > 
-  > >- 內嵌網站 https://zu-z.github.io/HW/Web.html
-  > >- 參考網址：https://jerrynest.io/app-android-webview/ 、 https://www.youtube.com/watch?v=mZOnjGPF-9w
+  > > - 內嵌網站 https://zu-z.github.io/HW/Web.html
+  > > - 參考網址：https://jerrynest.io/app-android-webview/ 、 https://www.youtube.com/watch?v=mZOnjGPF-9w
   >
->## 上傳 GitHub 的方法：
+> ## 上傳 GitHub 的方法：
 >
->- 安裝 Git 客戶端，使用 Git Gui 上傳完整資料夾至 GitHub
->- 上傳完整資料夾至 GitHub 的參考網站：https://blog.csdn.net/weixin_39713578/article/details/110661333
+> - 安裝 Git 客戶端，使用 Git Gui 上傳完整資料夾至 GitHub
+> - 上傳完整資料夾至 GitHub 的參考網站：https://blog.csdn.net/weixin_39713578/article/details/110661333
 > ## ppt：
->- android webview.pptx
+> - android webview.pptx
